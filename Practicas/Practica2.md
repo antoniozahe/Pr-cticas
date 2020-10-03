@@ -79,9 +79,9 @@ Escribe en la siguiente sección, para el conjunto de entradas indicado, el resu
 
 |valores_x|valores_y|resultado|
 |-|-|-|
-|[1, 2, 3]|[1, 2, 3, 4, 5]|**Tu respuesta aquí**|
-|[2, 4]|[7, 5, 2, 8, 3]|**Tu respuesta aquí**|
-|[3, 5, 2]|[6, 5, 3, 7, 1, 2]|**Tu respuesta aquí**|
+|[1, 2, 3]|[1, 2, 3, 4, 5]|**True**|
+|[2, 4]|[7, 5, 2, 8, 3]|**True**|
+|[3, 5, 2]|[6, 5, 3, 7, 1, 2]|**True**|
 
 
 ##### Complejidad
